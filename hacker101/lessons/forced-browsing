@@ -1,0 +1,5 @@
+or called improper authorisation. for example some admin function is not protected. 
+where we can guess values - for example just inc the ids 
+
+- perform everyaction as hihest privilegde user and then switch to low privilegdr user and repeat usinh the previous sessions ids or csrf tokens 
+
